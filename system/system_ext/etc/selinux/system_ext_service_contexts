@@ -1,0 +1,16 @@
+lineageglobalactions                      u:object_r:lineage_globalactions_service:s0
+lineagehardware                           u:object_r:lineage_hardware_service:s0
+lineagehealth                             u:object_r:lineage_health_interface_service:s0
+lineagelivedisplay                        u:object_r:lineage_livedisplay_service:s0
+lineagetrust                              u:object_r:lineage_trust_service:s0
+profile                                   u:object_r:lineage_profile_service:s0
+adbroot_service                           u:object_r:adbroot_service:s0
+qti.ims.ext                                          u:object_r:radio_service:s0
+ims_ex                                               u:object_r:radio_service:s0
+ims_ut_ex                                            u:object_r:radio_service:s0
+ims_doze_manager                                     u:object_r:radio_service:s0
+irit                                                 u:object_r:radio_service:s0
+mwis                                    u:object_r:radio_service:s0
+mtkIms                                    u:object_r:radio_service:s0
+android.hardware.bluetooth.audio.IBluetoothAudioProviderFactory/sysbta    u:object_r:hal_audio_service:s0
+me.phh.qcrilam                                                            u:object_r:qcrilam_service:s0
